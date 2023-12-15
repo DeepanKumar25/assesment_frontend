@@ -1,5 +1,5 @@
 Steps to test the assesment :
-!. Go to assesment_backend and run the command npm run start:dev 
+1. Go to assesment_backend and run the command npm run start:dev 
 It will start the server and it will connect to mongodb.
 This is built using Nestjs.
 2. Go to assesment_moralis
